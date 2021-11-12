@@ -37,4 +37,4 @@ class scratchCookie {
     }
 }
 
-Scratch.extensions.register(new ScratchFetch())
+Scratch.extensions.register(new scratchCookie())
