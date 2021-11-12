@@ -22,9 +22,9 @@ class scratchCookie {
                             "opcode": "getCookie",
                             "blockType": "reporter",
                             "text": "this website's cookie"
-                        },
-                ],
-        };
+                        }
+                ]
+        }
     }
     
     setCookie({cookieSet}) {
